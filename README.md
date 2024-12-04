@@ -1,4 +1,4 @@
-#Customer Churn Analysis for a Telecommunications Company
+Customer Churn Analysis for a Telecommunications Company
 
 Project Overview
 
